@@ -2,22 +2,25 @@
 {
   "products": [
     { "id": 1, 
-      "name": "Product 1", 
-      "price": 5999,
+      "name": "L Shape Sofa Set", 
+      "price": 21999,
       "rating": 4,
-      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics." 
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618VJHrIZ3L._SL1100_.jpg"
     },
     { "id": 2, 
-      "name": "Product 2", 
+      "name": "2 Door Steel Almirah", 
       "price": 19849,
       "rating": 3.5,
-      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics." 
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71eppxneREL._SL1500_.jpg"
     },
     { "id": 3, 
-      "name": "Product 3", 
-      "price": 2499,
+      "name": "Sofa Cum Bed", 
+      "price": 10599,
       "rating": 4.5,
-      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics." 
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81y6WmXTsML._SL1500_.jpg"
     }
   ]
 }
