@@ -21,6 +21,55 @@
       "rating": 4.5,
       "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81y6WmXTsML._SL1500_.jpg"
+    },
+    { "id": 4, 
+      "name": "Queen Size Bed", 
+      "price": 12599,
+      "rating": 4.3,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/817%2BqPbDo8L._SL1500_.jpg"
+    },
+    { "id": 5, 
+      "name": "Solid Sheesham Wood Coffee Table", 
+      "price": 11999,
+      "rating": 3.9,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81dacKY3SqL._SL1500_.jpg"
+    },
+    { "id": 6, 
+      "name": "3+2 Sofa Set - Beige", 
+      "price": 29950,
+      "rating": 4.1,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91ybJJSZelL._SL1500_.jpg"
+    },
+    { "id": 7, 
+      "name": "Classic XXL Bean Bag with Footstool Filled with Beans, Brown", 
+      "price": 1899,
+      "rating": 3.7,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61SvN33pCvL._SL1400_.jpg"
+    },
+    { "id": 8, 
+      "name": "Decorative Hand Made Jute Throw/Pillow Cushion Covers", 
+      "price": 299,
+      "rating": 3.5,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZtX%2BXF0SL._SL1000_.jpg"
+    },
+    { "id": 9, 
+      "name": "Superfine Long Fibre Cotton II Double Bedsheet", 
+      "price": 1299,
+      "rating": 4.5,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1MMf0Q-wIL._SL1500_.jpg"
+    },
+    { "id": 10, 
+      "name": "Multi-Purpose Laptop Table/Bed Table/Wooden Foldable Bed Table", 
+      "price": 899,
+      "rating": 2.9,
+      "description": "This is a well designed and crafted product that will suit many needs in terms of quality, craftmanship and aesthetics.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61u2iADN7zL._SL1500_.jpg"
     }
   ]
 }
